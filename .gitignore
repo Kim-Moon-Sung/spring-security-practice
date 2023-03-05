@@ -171,9 +171,6 @@ $RECYCLE.BIN/
 .env
 
 ###
-application.yml
-
-###
 .gradle/
 
 ###
